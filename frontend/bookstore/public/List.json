@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "name": "storybook",
+        "title": "sjcshkdc sldkjs dsjhjn",
+        "price": 0,
+        "author":"htfik",
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1732167729~exp=1732171329~hmac=70e881aae6b740c28692ec36a8b717712f94908db4011c268726bfb17d37ff22&w=740"
+    },
+    {
+        "id":2,
+        "name": "comedybook",
+        "title": "sjcshkdc sldkjs dsjhjn",
+        "price": 0,
+        "author":"htfik",
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1732167729~exp=1732171329~hmac=70e881aae6b740c28692ec36a8b717712f94908db4011c268726bfb17d37ff22&w=740"
+    },
+    {
+        "id":3,
+        "name": "thrillerbook",
+        "title": "sjcshkdc sldkjs dsjhjn",
+        "price": 0,
+        "author":"htfik",
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1732167729~exp=1732171329~hmac=70e881aae6b740c28692ec36a8b717712f94908db4011c268726bfb17d37ff22&w=740"
+    },
+    {
+        "id":4,
+        "name": "romancebook",
+        "title": "sjcshkdc sldkjs dsjhjn",
+        "price": 0,
+        "author":"htfik",
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1732167729~exp=1732171329~hmac=70e881aae6b740c28692ec36a8b717712f94908db4011c268726bfb17d37ff22&w=740"
+    },
+    {
+        "id":5,
+        "name": "selfhelpbook",
+        "title": "sjcshkdc sldkjs dsjhjn",
+        "price": 0,
+        "author":"htfik",
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1732167729~exp=1732171329~hmac=70e881aae6b740c28692ec36a8b717712f94908db4011c268726bfb17d37ff22&w=740"
+    },
+    {
+        "id":6,
+        "name": "businessbook",
+        "title": "sjcshkdc sldkjs dsjhjn",
+        "price": 0,
+        "author":"htfik",
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1732167729~exp=1732171329~hmac=70e881aae6b740c28692ec36a8b717712f94908db4011c268726bfb17d37ff22&w=740"
+    },
+    {
+        "id":7,
+        "name": "childrensbook",
+        "title": "sjcshkdc sldkjs dsjhjn",
+        "price": 0,
+        "author":"htfik",
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1732167729~exp=1732171329~hmac=70e881aae6b740c28692ec36a8b717712f94908db4011c268726bfb17d37ff22&w=740"
+    }
+]

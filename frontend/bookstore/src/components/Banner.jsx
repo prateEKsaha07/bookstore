@@ -39,7 +39,7 @@ const Banner = () => {
 
      {/* the right side of the banner */}
      <div className=" order-1 w-full md:w-1/2">
-        <img src={banner} className=" w-90 h-92 p-12 mt-9" alt="" />
+        <img src={banner} className=" w-90 h-92 p-12 m-12" alt="" />
      </div>
      </div>
     </>
