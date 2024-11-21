@@ -17,7 +17,7 @@ const Banner = () => {
 <div className="space-y-7 mx-auto ">
 
 {/* email input box */}
-     <label className="input input-bordered flex items-center gap-2 p-3">
+     <label className="input input-bordered flex items-center gap-2 p-3 ">
     <svg
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 16 16"
@@ -39,7 +39,7 @@ const Banner = () => {
 
      {/* the right side of the banner */}
      <div className=" order-1 w-full md:w-1/2">
-        <img src={banner} className=" w-90 h-92 p-3 mt-7" alt="" />
+        <img src={banner} className=" w-90 h-92 p-12 mt-9" alt="" />
      </div>
      </div>
     </>
