@@ -38,7 +38,7 @@ const Banner = () => {
      </div>
 
      {/* the right side of the banner */}
-     <div className=" order-1 w-full md:w-1/2">
+     <div className=" order-1 w-full md:w-1/2 flex justify-center items-center">
         <img src={banner} className=" w-90 h-92 p-12 m-12" alt="" />
      </div>
      </div>
