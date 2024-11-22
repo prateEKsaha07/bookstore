@@ -40,8 +40,8 @@ useEffect(() => {
     const navItems =(<>
     <li><a href='/'>home</a></li>
       <li><a href='/Course'>Course</a></li>
-      <li><a>about us</a></li>
-      <li><a>library</a></li>
+      <li><a>Contact us</a></li>
+      <li><a>about</a></li>
     </>);
   return (
     <>
