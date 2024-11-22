@@ -33,7 +33,7 @@ const Signup = () => {
     </div >
     <div className="flex justify-around mt-4 "> <button className='bg-lime-700 text-white rounded medium px-3 py-1 hover:bg-white hover:text-black duration-300'>Sign-up</button>
 
-    <p>Something wrong! {" "}
+    <p className='text-md'>Something wrong! {" "}
         <Link to="/"
         className='underline text-yellow-500 cursor-pointer'
         onClick={
